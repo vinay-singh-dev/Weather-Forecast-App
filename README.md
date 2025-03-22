@@ -11,12 +11,6 @@ A modern and user-friendly **Weather Forecast App** built using **Kotlin** and *
 - 📌 **Current Location Support** – Detects your location automatically.
 - 🎨 **Modern UI** – Simple and intuitive user interface.
 
-## 🖼️ Screenshots
-
-<img src="screenshots/home.png" width="250"> <img src="screenshots/search.png" width="250">  
-
-
-
 ## 🛠️ Tech Stack
 
 - **Kotlin**
