@@ -15,7 +15,7 @@ A modern and user-friendly **Weather Forecast App** built using **Kotlin** and *
 
 <img src="screenshots/home.png" width="250"> <img src="screenshots/search.png" width="250">  
 
-*(Replace with actual screenshots)*
+
 
 ## 🛠️ Tech Stack
 
